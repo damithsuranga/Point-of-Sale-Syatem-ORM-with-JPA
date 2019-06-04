@@ -31,7 +31,7 @@ Perequisites
 Technology Stack
 ==============
 
-1.Hibernate
+1.JPA
 
 2.Spring
 
