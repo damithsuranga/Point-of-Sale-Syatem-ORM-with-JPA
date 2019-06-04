@@ -6,7 +6,7 @@ Getting Started
 ====
 
 Create a folder in your local machine.Open command prompt or GIT_Bash & create repository using git init.
-You can see the project from https://github.com/damithsuranga/Ponit-of-Sale-System-of-ORM-intigration-with-Hibernate. If you need this first fork the project.Open GIT_Bash or Command prompt in your folder & clone it.(git clone url)
+You can see the project from https://github.com/damithsuranga/Point-of-Sale-Syatem-ORM-with-JPA. If you need this first fork the project.Open GIT_Bash or Command prompt in your folder & clone it.(git clone url)
 
 Running & Test
 ========
